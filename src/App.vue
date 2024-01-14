@@ -13,9 +13,11 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  
+}
+html{
   background-color: black;
 }
-
 nav {
   padding: 30px;
 }
